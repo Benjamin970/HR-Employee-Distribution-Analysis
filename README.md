@@ -5,9 +5,12 @@
 This HR analytics project analyzed employee distribution across demographics, departments, and locations using MySQL and Power BI. Key findings revealed diversity gaps (racial/gender imbalances), regional clustering in Midwest states, and high turnover in compliance roles. The workforce skewed middle-aged (25-54) and office-centric, with underrepresentation in non-conforming genders and remote work. Recommendations included targeted diversity hiring, retention programs for high-attrition departments, and expanded remote policies. The analysis provides actionable insights for strategic workforce planning and inclusive HR practices.
 
 ## Report Preview
-![Screenshot 2025-04-15 191847](https://github.com/user-attachments/assets/8e9f98b9-f76a-483d-9247-ab2a05b8a780)
-![Screenshot 2025-04-15 191934](https://github.com/user-attachments/assets/8d5e97e6-1c64-4b29-84f5-25509f0c0939)
-![Screenshot 2025-04-15 192024](https://github.com/user-attachments/assets/0d77e92b-760f-4da5-b881-7f8f26ec77eb)
+![Screenshot 2025-04-15 191847](https://github.com/user-attachments/assets/08d46019-2800-46e6-89a6-47ede5e87a37)
+![Screenshot 2025-04-15 191934](https://github.com/user-attachments/assets/3555d82a-c90a-41bc-8aa8-4c89916a2224)
+![Screenshot 2025-04-15 192024](https://github.com/user-attachments/assets/5041c455-f12f-4fb5-b097-80194d9ade74)
+
+
+
 
 ### Data Source
 The analysis was conducted using anonymized, public open-source HR datasets. These datasets included employee demographic information (age, gender, race), employment details (department, job title, hire/termination dates), and location data. All personally identifiable information (PII) was removed to ensure privacy compliance
